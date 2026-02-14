@@ -1,0 +1,10 @@
+date,product,region,price,quantity
+2025-01-05,Laptop,Prague,25000,2
+2025-01-06,Mouse,Brno,500,5
+2025-01-07,Keyboard,Prague,1200,3
+2025-02-01,Laptop,Ostrava,25000,1
+2025-02-03,Mouse,Prague,500,10
+2025-02-10,Keyboard,Brno,1200,4
+2025-03-02,Laptop,Brno,25000,1
+2025-03-05,Mouse,Ostrava,500,7
+2025-03-10,Keyboard,Prague,1200,2
